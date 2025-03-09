@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/71139000?s=400&u=c777f76835224d2926e70db077b4a3433decb090&v=4" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi 👋, I'm lizy
