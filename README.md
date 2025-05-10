@@ -17,7 +17,27 @@ I am from the back-end stack client side development, Flutter is currently the m
 
  Know about my experiences yuque [https://www.yuque.com/diligent_coding/flutter](https://www.yuque.com/diligent_coding/flutter)
   
-  
+
+SYNOPSIS
+flutter [--android|--windows|--linux] | kotlin --jetpack --mvvm
+
+DESCRIPTION
+行为模式如同瑞士军刀般的multitool，能在Android Studio的丛林和VS Code的平原间无缝切换。常见操作包括：
+
+- 提交带chore标记的PR（频率：高频，如同《百年孤独》中奥雷里亚诺上校发动的32次起义）
+
+- 开发生物识别插件（频率：近期爆发，堪比Linux内核的版本号跳跃）
+
+- 撰写技术文档（频率：稳定如TCP协议的滑动窗口）
+
+DIAGNOSTICS
+当遇到AGP版本冲突时会像《三体》中的面壁者般沉默思考，错误代码0xDEADBEEF表示"生存还是毁灭，这是个问题"。处理ScrollController异常时展现出《代码大全》中描述的防御性编程艺术。
+
+BUGS
+已知会将咖啡杯识别为Docker容器，把地铁闸机误认为CI/CD流水线。偶尔在深夜提交时会把git commit message写成十四行诗格式，如同《银河系漫游指南》里抑郁的机器人马文。
+
+SEE ALSO
+full-stack-troubleshooter(7), 《Flutter实战》(3), 《Android开发艺术探索》(2)  
 
 <br/>  
 
