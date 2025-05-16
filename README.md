@@ -7,8 +7,6 @@
 I am from the back-end stack client side development, Flutter is currently the main tech stack, daily development of Windows desktop software and will do some Android, master MVP, MVVM and other common design patterns, participated in many performance optimization, business function reconstruction, Linux platform Flutter technology pioneering; skilled application of AI programming tools to improve work efficiency</div>  
   
 
-- 🔭 I’m currently working on **© Xi'an NovaStar Tech Co., Ltd.**  
-  
 
 - How to reach me **zhenyu_li1998@163.com**  
   
