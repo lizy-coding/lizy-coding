@@ -2,7 +2,11 @@
   
 
 ### <div align="center">Hi 👋, I'm lizy
-后端转客户端开发，目前 Flutter 为主要技能栈，日常开发 Windows 桌面软件并且会做一些安卓，掌握 MVP，MVVM 等常见设计模式，参与过多次性能优化，业务功能重构，Linux 平台 Flutter 技术开荒；熟练应用各 ai 编程工具，为工作提效。
+后端转客户端开发，Flutter 为主要技能栈，日常开发 Windows 桌面软件并且会做一些 Android ，掌握 MVP，MVVM 等常见设计模式，参与过多次性能优化，业务功能重构，完成过项目级 Linux 平台 Flutter 技术开荒；
+- 在桌面端实现高性能渲染与自绘（CustomPaint / RenderObject 优化）。  
+- 设计低耦合的模块化架构（MVP/MVVM/Observer），提高可维护性与可测试性。  
+- 定位并解决 OOM、卡顿、网络触发异常等稳定性问题。  
+- 使用 AI 工具（Cursor、Deepseek）加速开发与单元测试生成。
 
 I am from the back-end stack client side development, Flutter is currently the main tech stack, daily development of Windows desktop software and will do some Android, master MVP, MVVM and other common design patterns, participated in many performance optimization, business function reconstruction, Linux platform Flutter technology pioneering; skilled application of AI programming tools to improve work efficiency</div>  
   
@@ -20,22 +24,42 @@ SYNOPSIS
 flutter [--android|--windows|--linux] | kotlin --jetpack --mvvm
 
 DESCRIPTION
-行为模式如同瑞士军刀般的multitool，能在Android Studio的丛林和VS Code的平原间无缝切换。常见操作包括：
 
-- 提交带chore标记的PR（频率：高频，如同《百年孤独》中奥雷里亚诺上校发动的32次起义）
+🚀 Featured Projects（精选项目）
 
-- 开发生物识别插件（频率：近期爆发，堪比Linux内核的版本号跳跃）
+- **Flutter 特性学习 / Demo 集** — `flutter_study`  
+  [GitHub](https://github.com/lizy-coding/flutter_study)  
+  _收集桌面/移动端实用特性与示例（渲染、Plugin、异步场景）。_
 
-- 撰写技术文档（频率：稳定如TCP协议的滑动窗口）
+  
+- **Flutter 生物识别插件** — `flutter_biometric`  
+  [GitHub](https://github.com/lizy-coding/flutter_biometric)  
+  _原生生物识别能力封装为 Flutter Plugin，包含 Android 原生对接与 Flutter UI 支持。_
 
-DIAGNOSTICS
-当遇到AGP版本冲突时会像《三体》中的面壁者般沉默思考，错误代码0xDEADBEEF表示"生存还是毁灭，这是个问题"。处理ScrollController异常时展现出《代码大全》中描述的防御性编程艺术。
 
-BUGS
-已知会将咖啡杯识别为Docker容器，把地铁闸机误认为CI/CD流水线。偶尔在深夜提交时会把git commit message写成十四行诗格式，如同《银河系漫游指南》里抑郁的机器人马文。
+- **Flutter Android 电池监控插件** — `flutter_battery`  
+  [GitHub](https://github.com/lizy-coding/flutter_battery)  
+  _使用 Channel 实现跨进程电池状态监听、事件上报及 Flutter 侧订阅实现。_
 
-SEE ALSO
-full-stack-troubleshooter(7), 《Flutter实战》(3), 《Android开发艺术探索》(2)  
+
+✍️ Featured Articles（精选文章）
+- 曲径通幽 —— Android 息屏 TCP 连接管理  
+  [掘金链接](http://juejin.cn/post/7532580697925845028)
+
+- 妙笔生花 —— Flutter 实现飞入动画  
+  [掘金链接](https://juejin.cn/post/7559959596471746595)
+
+- 端倪无际 —— cursor 配置 MCP 保姆级攻略  
+  [掘金链接](https://juejin.cn/post/7486738482275958810)
+
+- 葵花解穴 —— 应用卡顿 OOM 定位  
+  [掘金链接](https://juejin.cn/post/7387662864121036838)
+
+- 虚中有实 —— Future 异步捕获  
+  [掘金链接](https://juejin.cn/post/7350586974908563475)
+
+- 一箭双雕 —— Flutter Channel 双通道调用实战  
+  [掘金链接]([https://juejin.cn/post/750504](https://juejin.cn/post/7505042954198319141))
 
 <br/>  
 
