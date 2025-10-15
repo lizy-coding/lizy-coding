@@ -8,7 +8,14 @@
 - 定位并解决 OOM、卡顿、网络触发异常等稳定性问题。  
 - 使用 AI 工具（Cursor、Deepseek）加速开发与单元测试生成。
 
-I am from the back-end stack client side development, Flutter is currently the main tech stack, daily development of Windows desktop software and will do some Android, master MVP, MVVM and other common design patterns, participated in many performance optimization, business function reconstruction, Linux platform Flutter technology pioneering; skilled application of AI programming tools to improve work efficiency</div>  
+Backend→Client dev | Flutter enthusiast | Master of high-performance desktop rendering, low-coupling modular architecture (MVP/MVVM/Observer), stability wizardry (OOM & jank hunter), and AI-powered dev acceleration (Cursor & Deepseek).
+- Implement high-performance rendering and custom drawing on desktop platforms (CustomPaint / RenderObject optimizations).
+- Design low-coupling modular architectures (MVP / MVVM / Observer) to enhance maintainability and testability.
+- Identify and resolve stability issues such as OOM, UI jank, and network-triggered exceptions.
+- Leverage AI tools (Cursor, Deepseek) to accelerate development and automate unit test generation.
+
+
+</div>  
   
 
 
@@ -37,8 +44,8 @@ DESCRIPTION
   _原生生物识别能力封装为 Flutter Plugin，包含 Android 原生对接与 Flutter UI 支持。_
 
 
-- **Flutter Android 电池监控插件** — `flutter_battery`  
-  [GitHub](https://github.com/lizy-coding/flutter_battery)  
+- **Flutter Android 电池监控插件**
+  [flutter_battery](https://github.com/lizy-coding/flutter_battery)  
   _使用 Channel 实现跨进程电池状态监听、事件上报及 Flutter 侧订阅实现。_
 
 
@@ -53,10 +60,10 @@ DESCRIPTION
 
 - [虚中有实 —— Future 异步捕获  ](https://juejin.cn/post/7350586974908563475)
 
-- [一箭双雕 —— Flutter Channel 双通道调用实战][https://juejin.cn/post/750504](https://juejin.cn/post/7505042954198319141)
+- [一箭双雕 —— Flutter Channel 双通道调用实战](https://juejin.cn/post/7505042954198319141)
 
 <br/>  
-
+<table><tr><td valign="top" width="33%">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
