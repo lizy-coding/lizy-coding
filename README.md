@@ -27,6 +27,10 @@ Backend→Client dev | Flutter enthusiast | Master of high-performance desktop r
  Know about my experiences yuque [https://www.yuque.com/diligent_coding/flutter](https://www.yuque.com/diligent_coding/flutter)
   
 
+
+
+## My Skill Set  
+
 SYNOPSIS
 flutter [--android|--windows|--linux] | kotlin --jetpack --mvvm
 
@@ -63,12 +67,6 @@ DESCRIPTION
 - [一箭双雕 —— Flutter Channel 双通道调用实战](https://juejin.cn/post/7505042954198319141)
 
 <br/>  
-<table><tr><td valign="top" width="33%">
-
-## My Skill Set  
-<table><tr><td valign="top" width="80%">
-
-
 
 ### Languages   
 <div align="center">  
