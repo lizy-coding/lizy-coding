@@ -27,13 +27,13 @@ DESCRIPTION
 
 🚀 Featured Projects（精选项目）
 
-- **Flutter 特性学习 / Demo 集** — `flutter_study`  
-  [GitHub](https://github.com/lizy-coding/flutter_study)  
+- **Flutter 特性学习 / Demo 集** 
+  [flutter_study](https://github.com/lizy-coding/flutter_study)  
   _收集桌面/移动端实用特性与示例（渲染、Plugin、异步场景）。_
 
   
-- **Flutter 生物识别插件** — `flutter_biometric`  
-  [GitHub](https://github.com/lizy-coding/flutter_biometric)  
+- **Flutter 生物识别插件** 
+  [flutter_biometric](https://github.com/lizy-coding/flutter_biometric)  
   _原生生物识别能力封装为 Flutter Plugin，包含 Android 原生对接与 Flutter UI 支持。_
 
 
@@ -43,23 +43,17 @@ DESCRIPTION
 
 
 ✍️ Featured Articles（精选文章）
-- 曲径通幽 —— Android 息屏 TCP 连接管理  
-  [掘金链接](http://juejin.cn/post/7532580697925845028)
+- [曲径通幽 —— Android 息屏 TCP 连接管理](http://juejin.cn/post/7532580697925845028)
 
-- 妙笔生花 —— Flutter 实现飞入动画  
-  [掘金链接](https://juejin.cn/post/7559959596471746595)
+- [妙笔生花 —— Flutter 实现飞入动画](https://juejin.cn/post/7559959596471746595)
 
-- 端倪无际 —— cursor 配置 MCP 保姆级攻略  
-  [掘金链接](https://juejin.cn/post/7486738482275958810)
+- [端倪无际 —— cursor 配置 MCP 保姆级攻略](https://juejin.cn/post/7486738482275958810)
 
-- 葵花解穴 —— 应用卡顿 OOM 定位  
-  [掘金链接](https://juejin.cn/post/7387662864121036838)
+- [葵花解穴 —— 应用卡顿 OOM 定位](https://juejin.cn/post/7387662864121036838)
 
-- 虚中有实 —— Future 异步捕获  
-  [掘金链接](https://juejin.cn/post/7350586974908563475)
+- [虚中有实 —— Future 异步捕获  ](https://juejin.cn/post/7350586974908563475)
 
-- 一箭双雕 —— Flutter Channel 双通道调用实战  
-  [掘金链接]([https://juejin.cn/post/750504](https://juejin.cn/post/7505042954198319141))
+- [一箭双雕 —— Flutter Channel 双通道调用实战][https://juejin.cn/post/750504](https://juejin.cn/post/7505042954198319141)
 
 <br/>  
 
