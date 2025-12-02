@@ -87,18 +87,17 @@ DESCRIPTION
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" />
 </div>
 
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lizy-coding&&style=flat-square" />
 </div>
 
----
 
 ## 📊 Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lizy-coding&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizy-coding&theme=default" />
 </div>
+
 
 ---
 
