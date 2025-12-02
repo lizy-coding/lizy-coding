@@ -94,8 +94,37 @@ DESCRIPTION
 
 
 ## 📊 Github Stats  
+## 📊 Github Stats
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lizy-coding&theme=default" />
+
+  <!-- ① 霓虹风深色 Stats 卡片 -->
+  <a href="https://github.com/lizy-coding">
+    <img
+      height="160"
+      src="https://github-readme-stats.vercel.app/api?username=lizy-coding&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <!-- ② 霓虹风深色 语言占比 -->
+  <a href="https://github.com/lizy-coding">
+    <img
+      height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizy-coding&layout=compact&langs_count=8&hide_border=true&theme=midnight-purple"
+      alt="Top Languages"
+    />
+  </a>
+
+  <!-- ③ 霓虹风深色 提交连击 Streak -->
+  <a href="https://git.io/streak-stats">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com?user=lizy-coding&hide_border=true&theme=neon-palenight"
+      alt="GitHub Streak"
+    />
+  </a>
+
 </div>
 
 
