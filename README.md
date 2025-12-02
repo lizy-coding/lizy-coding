@@ -96,18 +96,6 @@ DESCRIPTION
 ## 📊 Github Stats  
 
 
-<div align="center">
-
-  <a href="https://github.com/lizy-coding">
-    <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=lizy-coding&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=midnight-purple" />
-  </a>
-
-  <a href="https://github.com/lizy-coding">
-    <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=lizy-coding&layout=compact&langs_count=8&hide_border=true&theme=midnight-purple" />
-  </a>
-
-
-
   <!-- ③ 霓虹风深色 提交连击 Streak -->
   <a href="https://git.io/streak-stats">
     <img
