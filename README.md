@@ -93,21 +93,22 @@ DESCRIPTION
 </div>
 
 
-## 📊 Github Stats  
+## 📊 GitHub Stats
 
+<div align="center">
 
-  <!-- ③ 霓虹风深色 提交连击 Streak -->
-  <a href="https://git.io/streak-stats">
-    <img
-      height="180"
-      src="https://streak-stats.demolab.com?user=lizy-coding&hide_border=true&theme=neon-palenight"
-      alt="GitHub Streak"
-    />
-  </a>
+  <!-- Overall GitHub Stats -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=lizy-coding&show_icons=true&hide_border=true&theme=github_dark"
+    alt="GitHub Stats"
+  />
+
+  <!-- Most Used Languages -->
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizy-coding&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top Languages"
+  />
 
 </div>
-
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
