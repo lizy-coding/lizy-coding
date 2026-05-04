@@ -4,8 +4,8 @@
 
 ### 🧠 AI Agent-driven Flutter Infrastructure Engineer
 
-> I build cross-platform infrastructure with AI agents
-> Turning ideas into scalable Flutter ecosystems — fast.
+> I build scalable Flutter infrastructure with AI-assisted workflows
+> Enhancing not only development speed, but team-level engineering efficiency.
 
 </div>
 
@@ -16,11 +16,25 @@
 Backend → Client → Infrastructure Engineer
 
 目前专注于 **Flutter 跨平台基础架构建设（Android / Windows / Linux）**，
-通过 **AI Agent 能力重构工程开发方式**，提升团队整体研发效率。
+在团队中承担 **基础能力建设、项目框架搭建与复杂问题解决** 的核心角色。
 
-在当前工作中，我负责从 0 → 1 构建 Flutter 基础插件体系与工程生态。
+我的工作不仅是开发功能，更是构建可复用的工程体系，提升团队整体效率。
 
-**过去 3 个月完成了通常需要约 1 年周期的基础设施建设：**
+---
+
+### 📌 Current Role
+
+* 🧩 负责基础组件与公共能力建设（组件库 / 插件体系）
+* 🏗 设计并搭建项目整体框架（模块化 / 可扩展架构）
+* ⚡ 支撑日常业务迭代，提供稳定基础能力
+* 🔍 负责复杂问题排查（性能 / 稳定性 / 系统级问题）
+* 🧪 技术预研（Flutter 多端能力 / AI 工程化应用）
+
+---
+
+### 🚀 Key Achievements
+
+过去 3 个月完成了通常约 1 年周期的基础设施建设：
 
 * 🧩 公共视图组件库（统一 UI 能力）
 * 🗄 多平台数据库封装（跨端一致性）
@@ -34,9 +48,11 @@ Backend → Client → Infrastructure Engineer
 
 ### 🤖 AI Agent Workflow
 
-* 使用 Agent 拆解复杂需求 → 生成代码 → 自动补齐测试
-* 快速完成 Flutter 插件从原型到工程化落地
-* 将重复性基础设施建设流程标准化、自动化
+* 使用 AI Agent 拆解需求 → 生成代码 → 补齐测试 → 持续优化
+* 将基础设施建设流程标准化，提高开发一致性
+* 在复杂系统中辅助分析问题与验证方案
+
+> AI enhances execution, but engineering defines correctness.
 
 ---
 
@@ -44,35 +60,43 @@ Backend → Client → Infrastructure Engineer
 
 * 多平台插件设计（Android / Windows / Linux）
 * Platform Channel / 原生能力接入
-* 公共组件库与基础能力沉淀
+* 公共组件库与基础能力抽象
 * Flutter 工程体系设计（模块化 / 可扩展）
 
 ---
 
-### 🏗 Engineering Ecosystem
+### 🏗 Engineering System Design
 
 * 构建网络 / 数据库 / IO 等基础能力层
-* 统一接口设计与模块划分
-* 面向团队复用的插件生态设计
+* 统一接口规范与模块划分
+* 设计可复用、可扩展的工程结构
+* 支撑团队快速业务开发
+
+---
+
+### 🤝 Engineering Collaboration
+
+* 推动基础能力在团队内复用与落地
+* 降低重复开发成本，提高协作效率
+* 在复杂问题中承担关键排查与解决角色
+* 通过工程体系提升团队整体交付能力
 
 ---
 
 ### ⚡ Performance & Stability
 
 * 渲染优化（CustomPaint / RenderObject）
-* OOM / 卡顿 / 异常定位与治理
-* 桌面端复杂问题排查（多线程 / IO / 网络）
+* OOM / 卡顿 / 网络异常问题定位与治理
+* 桌面端复杂系统问题排查（多线程 / IO / 网络）
 
 ---
 
-## 🤖 AI in Development
+## 🤖 AI in Engineering
 
-* 使用 AI 加速功能开发与代码生成
-* 自动生成与完善单元测试
-* 辅助复杂问题定位与分析
-* 快速构建原型（idea → demo in hours）
-
-> AI is not just a tool — it's part of my engineering workflow.
+* 将 AI 融入开发流程，而非单点工具使用
+* 加速功能开发、代码生成与测试完善
+* 在复杂系统中辅助问题定位与方案验证
+* 结合工程经验约束 AI 输出，保证代码质量
 
 ---
 
@@ -95,7 +119,7 @@ Backend → Client → Infrastructure Engineer
 
 * 渲染机制 / Plugin / 异步模型探索
 * 桌面端性能实验
-* AI-assisted feature iteration
+* 工程能力验证与方案沉淀
 
 ---
 
@@ -142,9 +166,10 @@ Backend → Client → Infrastructure Engineer
 > Fast ≠ reckless
 > Fast = clear architecture + reusable systems + AI-assisted execution
 
-* 用 Agent 提升工程效率
-* 用架构保证长期可维护性
-* 用生态降低团队重复成本
+* 优先构建基础能力，而不是重复实现业务逻辑
+* 用工程体系提升整体效率，而不是单点优化
+* AI 用于加速执行，工程经验保证质量与边界
+* 在复杂系统中保持结构清晰与职责分离
 
 ---
 
@@ -152,7 +177,7 @@ Backend → Client → Infrastructure Engineer
 
 * 🔥 AI Agent + Flutter 工程体系
 * 🖥 桌面端高性能渲染
-* 🤖 AI 驱动的开发效率提升
+* 🤖 AI 驱动的软件工程效率提升
 
 ---
 
