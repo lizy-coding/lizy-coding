@@ -77,6 +77,8 @@ IoT 开发不只是连接设备，也包括设备状态、权限、生命周期�
 [项目仓库](https://github.com/lizy-coding/flutter_forge) · [在线体验](https://lizy-coding.github.io/flutter_forge/)
 <img width="1312" height="922" alt="image" src="https://github.com/user-attachments/assets/41f00c31-b0ba-46b6-9359-2ff8d16b81aa" />
 
+<img width="1314" height="922" alt="image" src="https://github.com/user-attachments/assets/d8cade31-0200-420c-ba59-e7becdd018f1" />
+
 
 🎨 G-code Core
 
@@ -89,7 +91,6 @@ IoT 开发不只是连接设备，也包括设备状态、权限、生命周期�
 [项目仓库](https://github.com/lizy-coding/gcode_core)
 
 ![G-code Core 演示](https://raw.githubusercontent.com/lizy-coding/gcode_core/master/gcode_print.gif)
-<img width="1314" height="1156" alt="image" src="https://github.com/user-attachments/assets/d8cade31-0200-420c-ba59-e7becdd018f1" />
 
 
 🧠 Agent Hub
